@@ -73,4 +73,8 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+<img src="./assets/me-ssv.svg" width="100%" alt="me ssv"/>
+
+<img src="./assets/wordmark.svg" width="100%" alt="wordmark"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
