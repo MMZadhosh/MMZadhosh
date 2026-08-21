@@ -73,7 +73,11 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<img src="./assets/me-ssv.svg" width="100%" alt="me ssv"/>
+---
+
+<div align="center">
+<img src="./assets/me-ssv.svg" width="45%" alt="me ssv"/>
+</div>
 
 <img src="./assets/wordmark.svg" width="100%" alt="wordmark"/>
 
